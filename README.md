@@ -1,3 +1,5 @@
 # Python
 
-**My Python Scipts** (The ones im proud of at least)
+**My Python Scipts**
+
+alg_solver - a basic algabra solving program
