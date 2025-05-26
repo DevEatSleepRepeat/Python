@@ -1,0 +1,1 @@
+print("\n",str(round(((((int(input("Wheel Diameter in Inches:\n"))*3.14159)*int(input("RPM:\n")))/63360)*60),2)), "MPH")
